@@ -1,0 +1,17 @@
+==> 2018-12-06 22:40:50 <==
+# cmd: D:\Anaconda3\Scripts\conda create --name TestEnv
+# conda version: 4.5.11
+==> 2018-12-06 22:42:36 <==
+# cmd: D:\Anaconda3\Scripts\conda install -n TestEnv pip
+# conda version: 4.5.11
++defaults::ca-certificates-2018.03.07-0
++defaults::certifi-2018.10.15-py37_0
++defaults::openssl-1.1.1a-he774522_0
++defaults::pip-18.1-py37_0
++defaults::python-3.7.1-he44a216_5
++defaults::setuptools-40.6.2-py37_0
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.15.26706-h3a45250_0
++defaults::wheel-0.32.3-py37_0
++defaults::wincertstore-0.2-py37_0
+# update specs: ['pip']
